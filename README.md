@@ -9,11 +9,11 @@
 ## About
 Full-stack engineer specializing in agentic AI systems. Building autonomous agents and robust web applications that push the boundaries of automation and intelligence.
 
-- 🌍 Based in [Your Location]
-- 🔭 Currently working on [Your Current Project, e.g., AI-powered automation tools]
-- 🌱 Learning [Advanced Topics, e.g., advanced LLM integrations, graph databases]
-- 👯 Open to collaborating on [Types of Projects, e.g., AI agents, full-stack apps]
-- 📫 Reach me at [Your Email or Link]
+🌍 Residing in Pakistan
+🔭 Pioneering AI Agents for transformative applications
+🌱 Advancing expertise in Agentic AI and autonomous systems
+👯 Eager to collaborate on ventures blending full-stack development with AI innovation
+
 
 ## Skills
 <p align="left">
@@ -32,9 +32,7 @@ Full-stack engineer specializing in agentic AI systems. Building autonomous agen
   <!-- Add more icons as needed, e.g., for Pinecone, LangChain if available -->
 </p>
 
-## Featured Projects
-- **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of the project, e.g., an agentic AI system for task automation. Tech stack: [React, Node.js, LangChain, OpenAI SDK].
-- **[Another Project](https://github.com/yourusername/another-repo)**: Short overview, e.g., full-stack app with real-time data processing. Impact: [Details, e.g., improved efficiency by 40%].
+
 
 ## Connect
 <p align="center">
