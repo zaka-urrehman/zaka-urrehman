@@ -1,6 +1,6 @@
 # Zaka Urrehman
 
-> Full-stack and agentic AI engineer crafting intelligent, scalable applications. 🤖🚀
+> Full-stack and Agentic AI Engineer crafting intelligent, scalable applications. 
 
 <p align="center">
   <img src="https://your-banner-image-url-here.com/banner.gif" alt="Banner" width="100%">
@@ -40,11 +40,14 @@ Full-stack engineer specializing in agentic AI systems. Building autonomous agen
 
 ## Connect 
 <p align="center">
-  <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/>
+  <a href="https://x.com/ZakaUrRehman_1" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/>
   </a> 
-  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  <a href="https://linkedin.com/in/zaka-urrehman" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a> 
-  <a href="https://yourwebsite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="website" width="40" height="40"/>
+  <a href="https://zakaurrehman.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="website" width="40" height="40"/>
   </a> 
 </p> 
 
