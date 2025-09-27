@@ -1,32 +1,40 @@
 # Zaka Urrehman
 
-> A passionate developer building innovative solutions. 🚀
+> Full-stack and agentic AI engineer crafting intelligent, scalable applications. 🤖🚀
 
 <p align="center">
   <img src="https://your-banner-image-url-here.com/banner.gif" alt="Banner" width="100%">
 </p>
 
 ## About
-Exploring the frontiers of software engineering with a focus on [your interests, e.g., AI, web dev, data science]. Always learning, collaborating, and contributing to open-source projects.
+Full-stack engineer specializing in agentic AI systems. Building autonomous agents and robust web applications that push the boundaries of automation and intelligence.
 
 - 🌍 Based in [Your Location]
-- 🔭 Currently working on [Your Current Project]
-- 🌱 Learning [Technologies/Skills]
-- 👯 Open to collaborating on [Types of Projects]
+- 🔭 Currently working on [Your Current Project, e.g., AI-powered automation tools]
+- 🌱 Learning [Advanced Topics, e.g., advanced LLM integrations, graph databases]
+- 👯 Open to collaborating on [Types of Projects, e.g., AI agents, full-stack apps]
 - 📫 Reach me at [Your Email or Link]
 
 ## Skills
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <!-- Add more icons as needed -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
+  <!-- Add more icons as needed, e.g., for Pinecone, LangChain if available -->
 </p>
 
 ## Featured Projects
-- **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of the project. Tech stack: [List].
-- **[Another Project](https://github.com/yourusername/another-repo)**: Short overview. Impact: [Details].
+- **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of the project, e.g., an agentic AI system for task automation. Tech stack: [React, Node.js, LangChain, OpenAI SDK].
+- **[Another Project](https://github.com/yourusername/another-repo)**: Short overview, e.g., full-stack app with real-time data processing. Impact: [Details, e.g., improved efficiency by 40%].
 
 ## Connect
 <p align="center">
