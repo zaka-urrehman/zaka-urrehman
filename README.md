@@ -9,10 +9,10 @@
 ## About
 Full-stack engineer specializing in agentic AI systems. Building autonomous agents and robust web applications that push the boundaries of automation and intelligence.
 
-🌍 Residing in Pakistan
-🔭 Pioneering AI Agents for transformative applications
-🌱 Advancing expertise in Agentic AI and autonomous systems
-👯 Eager to collaborate on ventures blending full-stack development with AI innovation
+🌍 Residing in Pakistan  
+🔭 Pioneering AI Agents for transformative applications  
+🌱 Advancing expertise in Agentic AI and autonomous systems  
+👯 Eager to collaborate on ventures blending full-stack development with AI innovation  
 
 
 ## Skills
