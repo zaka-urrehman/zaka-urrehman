@@ -24,16 +24,6 @@ Exploring the frontiers of software engineering with a focus on [your interests,
   <!-- Add more badges as needed -->
 </p>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="40%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
-</p>
-
 ## Featured Projects
 - **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of the project. Tech stack: [List].
 - **[Another Project](https://github.com/yourusername/another-repo)**: Short overview. Impact: [Details].
